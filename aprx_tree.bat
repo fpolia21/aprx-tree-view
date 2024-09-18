@@ -18,4 +18,3 @@ if "%~1"=="" (
 REM Launch the Python script with the provided .aprx file path as the argument
 %PythonPath% "%ScriptPath%" "%~1"
 
-pause
